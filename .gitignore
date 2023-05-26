@@ -1,0 +1,7 @@
+env/Lib/site-packages/clang/native/libclang.dll
+data/raw/cifar-10-python.tar.gz
+data/processed/train.pkl
+env/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd
+data/processed/val.pkl
+data/processed/test.pkl
+data/raw/cifar-10-batches-py
