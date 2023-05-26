@@ -26,6 +26,18 @@ The CIFAR-10 dataset can be downloaded from the following source:
 
 Please download the dataset and ensure it is available in the appropriate directory before running the model.
 
+## Results
+
+Here are some screenshots showcasing the results after training the model.
+
+![Accuracy Plot](screenshots\accuracy_plot.png)
+*Relationship bewtween the training and validation accuracy.*
+
+![History Plot](screenshots\history.png)
+*Relationship between the training and validation loss.*
+
+![Loss Plot](screenshots\loss_plot.png)
+
 ## Instructions
 
 To fork this repository and create your own copy on GitHub, follow these steps:
