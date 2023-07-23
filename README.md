@@ -50,3 +50,8 @@ To fork this repository and create your own copy on GitHub, follow these steps:
 
    ```bash
    git clone https://github.com/loisobrero/CNN-Image-Classification.git
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
