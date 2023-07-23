@@ -4,7 +4,7 @@ This project aims to create a Convolutional Neural Network (CNN) model capable o
 
 ## Purpose
 
-The purpose of this project is to demonstrate the implementation of a CNN model for image classification using the popular CIFAR-10 dataset. By training the model on this dataset, we aim to achieve accurate and reliable classification results across a variety of images.
+The purpose of this project is to demonstrate the implementation of a CNN model for image classification using the popular CIFAR-10 dataset. By training the model on this dataset, we aim to achieve accurate and reliable classification results across a variety of images. Our goal is to understand how the implementation of various commonly used techniques leads to performance improvements in deep learning for computer vision applications.
 
 ## Technologies Used
 
