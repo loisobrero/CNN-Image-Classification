@@ -12,9 +12,9 @@ The purpose of this project is to demonstrate the implementation of a CNN model 
 - [x] [Trained a simple CNN in Keras (Val: ~73%)](utils/train.py)
 - [x] [Visualized loss curves, performance using matplotlib](utils/visualization.py)
 - [ ] [Explain advantages/disadvantages of pytorch when compared to keras/tensorflow2](README.md)
-- [ ] [Implement standard CNN architectures (ResNet) in pytorch](utils)
+- [ ] [Implement standard CNN architectures (ResNet50) in pytorch](utils)
 - [ ] [Implement various data augmentation techniques and observe improvements](utils)
-- [ ] [Implement a transformer based architecture (ViT) in pytorch](utils)
+- [ ] [Implement a transformer based architecture (ViT (s)) in pytorch](utils)
 
 
 ## Settings
@@ -55,11 +55,15 @@ Here we present two plots showcasing the loss and accuracy curves produced while
 ![History Plot](screenshots/history.png)
 *Relationship between the training and validation loss.*
 
-### ResNet (Pytorch)
+### ResNet50 (Pytorch)
 
 TBC
 
-### ViT (Pytorch)
+### ResNet50 with Augmentations (Pytorch)
+
+TBC
+
+### ViT (s) with Augmentations (Pytorch)
 
 TBC
 
