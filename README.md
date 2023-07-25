@@ -1,8 +1,19 @@
-<p align="center">
-# CNN Image Classification: How to improve performance/select models
-</p>
+# CNN Image Classification
 
-## Intro and Dataset
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Purpose and Objectives](#purpose)
+- [Dataset](#dataset)
+- [Requirements](#requirements)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Netron Trace](#netron-visualization-of-our-model)
+- [Predictions and Inference](#pytorch-and-onnx-predictions-and-inference)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
 
 This project aims to train several Convolutional Neural Network (CNN) classification models on the CIFAR-10 dataset. The objective of this project is to implement basic computer vision deep learning techniques using various packages and backends, allowing us to display a complete understanding of both basic and advanced deep learning strategies in python. By the completion of the project, we will have explored topics such as custom model design, data preprocessing, tensorflow/keras, pytorch, and popular models used to train deep learning image classifiers.
 
@@ -18,8 +29,17 @@ The purpose of this project is to demonstrate the implementation of a CNN model 
 - [ ] [Implement various data augmentation techniques and observe improvements](utils)
 - [ ] [Implement a transformer based architecture (ViT (s)) in pytorch](utils)
 
+## Dataset
 
-## Settings
+The dataset was generated using natural images captured in 32x32 resolution with 6,000 images per class - the classes are airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Given the low resolution, uniform class distribution and relatively small size of the dataset, it is most commonly used to benchmark novel ideas in deep learning/computer vision that would otherwise be computationally expensive to train on large image datasets (e.g. imagenet).
+
+The CIFAR-10 dataset can be downloaded from the following source:
+
+- [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+Please download the dataset and ensure it is available in the appropriate directory before running the model.
+
+## Requirements
 
 **TODO: add versions**
 The following languages, platforms and backends were utilized in this project:
@@ -34,16 +54,6 @@ The following languages, platforms and backends were utilized in this project:
 - Pytorch: ...
 - Timm: ...
 - Albumentations: ...
-
-## Dataset
-
-The dataset was generated using natural images captured in 32x32 resolution with 6,000 images per class - the classes are airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Given the low resolution, uniform class distribution and relatively small size of the dataset, it is most commonly used to benchmark novel ideas in deep learning/computer vision that would otherwise be computationally expensive to train on large image datasets (e.g. imagenet).
-
-The CIFAR-10 dataset can be downloaded from the following source:
-
-- [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-
-Please download the dataset and ensure it is available in the appropriate directory before running the model.
 
 ## Results
 
