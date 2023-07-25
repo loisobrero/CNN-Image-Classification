@@ -19,6 +19,7 @@ The purpose of this project is to demonstrate the implementation of a CNN model 
 
 ## Settings
 
+**TODO: add versions**
 The following languages, platforms and backends were utilized in this project:
 
 - Python: Programming language used for implementing the CNN model and associated scripts.
