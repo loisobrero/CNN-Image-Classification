@@ -36,8 +36,6 @@ Here are some screenshots showcasing the results after training the model.
 ![History Plot](screenshots/history.png)
 *Relationship between the training and validation loss.*
 
-![Loss Plot](screenshots/loss_plot.png)
-
 ## Instructions
 
 To fork this repository and create your own copy on GitHub, follow these steps:
