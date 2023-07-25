@@ -1,4 +1,4 @@
-# CNN Image Classification
+# CNN Image Classification: How to improve performance and select models
 
 ## Intro and Dataset
 
