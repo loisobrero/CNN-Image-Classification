@@ -1,4 +1,4 @@
-# CNN Image Classification
+# CNN Image Classification: Best Practices and Model Architecture Selection
 
 ## Table of Contents
 
