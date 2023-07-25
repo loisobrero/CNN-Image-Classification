@@ -1,10 +1,15 @@
 # CNN Image Classification
 
-This project aims to create a Convolutional Neural Network (CNN) model capable of training on the CIFAR-10 dataset and classifying images based on the ten different classes available.
+## Intro and Dataset
 
-## Purpose
+This project aims to create a Convolutional Neural Network (CNN) model capable of training on the CIFAR-10 dataset and classifying images based on the ten different classes available. The dataset was generated using natural images captured in 32x32 resolution with 6,000 images per class - the classes are airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Given the low resolution, uniform class distribution and relatively small size of the dataset, it is most commonly used to benchmark novel ideas in deep learning/computer vision that would otherwise be computationally expensive to train on large image datasets (e.g. imagenet).
 
-The purpose of this project is to demonstrate the implementation of a CNN model for image classification using the popular CIFAR-10 dataset. By training the model on this dataset, we aim to achieve accurate and reliable classification results across a variety of images. Our goal is to understand how the implementation of various commonly used techniques leads to performance improvements in deep learning for computer vision applications.
+## Purpose and Objectives
+
+The purpose of this project is to demonstrate the implementation of a CNN model for image classification using CIFAR-10. By training the model on this dataset, we aim to achieve accurate and reliable classification results across a variety of low resolution images. Our goal is to understand how the implementation of various commonly used techniques leads to performance improvements in deep learning for computer vision applications:
+
+- [x] [Trained a resnet](https://github.com/octocat/octoproject/issues/4)
+- [ ] [Translate content into supported languages](https://github.com/octocat/octoproject/issues/11)
 
 ## Technologies Used
 
