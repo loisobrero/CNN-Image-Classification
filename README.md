@@ -8,7 +8,7 @@ This project aims to train several Convolutional Neural Network (CNN) classifica
 
 The purpose of this project is to demonstrate the implementation of a CNN model for image classification using CIFAR-10. By training the model on this dataset, we aim to achieve accurate and reliable classification results across a variety of low resolution images. Our goal is to understand how the implementation of various commonly used techniques leads to performance improvements in deep learning for computer vision applications:
 
-- [x] [Preprocessed data (e.g. normalization, train/val split, etc.) using sklearn](https://github.com/loisobrero/CNN-Image-Classification/blob/main/utils/data.py)
+- [x] [Preprocessed data (e.g. normalization, train/val split, etc.) using sklearn](utils/data.py)
 - [x] [Trained a simple CNN in Keras (Val: ~73%)](https://github.com/loisobrero/CNN-Image-Classification/utils/train.py)
 - [x] [Visualized loss curves, performance using matplotlib](https://github.com/loisobrero/CNN-Image-Classification/utils/visualization.py)
 - [ ] [Explain advantages/disadvantages of pytorch when compared to keras/tensorflow2](https://github.com/loisobrero/CNN-Image-Classification/README.md)
