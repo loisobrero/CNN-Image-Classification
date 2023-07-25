@@ -1,4 +1,6 @@
+<p align="center">
 # CNN Image Classification: How to improve performance/select models
+</p>
 
 ## Intro and Dataset
 
